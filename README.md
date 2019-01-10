@@ -9,17 +9,17 @@ When you press Calculate Tip, it will display the tip amount and the total amoun
 
 FILES IN REPO:
 
-- MainActivity.java 
+- MainActivity.java: 
   Contains the main source code of the app. Initialization of all the textfields, labels, and buttons. Functions of the buttons. etc.
 
-- activity_main.xml
+- activity_main.xml:
   XML code of the graphical layout of the app (spacing, coloring, text font, size, etc.)
   
-- appscreen_beforepress.png
+- appscreen_beforepress.png:
   What app screen looks (before pressing Calculate Tip)
   
-- appscreen_afterpress.png
+- appscreen_afterpress.png:
   What app screen looks (after pressing Calculate Tip)
   
-- appusage.mp4
+- appusage.mp4:
   How the app is used.
